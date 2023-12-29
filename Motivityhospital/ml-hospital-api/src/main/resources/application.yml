@@ -28,5 +28,5 @@ spring:
 jwt:
   secret: screatKey123
 domain:
-  name: "http://vproapp-service:3000/"
+  name: http://vproapp-service:3000/
 
