@@ -1,4 +1,4 @@
 
 
 //backend url
- export const baseURL ='http://backend-billing-service:8080'
+ export const baseURL ='http://localhost:8080'
